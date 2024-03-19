@@ -47,7 +47,7 @@ plugins:
 
 
 languages: ["en", "fr"]
-exclude_from_localizations: ["images", "css"]
+exclude_from_localizations: ["javascript", "images", "css"]
 default_locale_isn_subfolder: true
 
 license_url: "http://creativecommons.org/licenses/by/4.0/"
