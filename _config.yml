@@ -5,8 +5,8 @@ ga_tracking: "" # *** This needs to be set up in Google Analytics once you know 
 
 subtitle: "FRDR Resource Subtitle"
 favicon_ico: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/favicon.ico"
-nav_footer_logo_bottom: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo.png"
-nav_footer_logo_bottom_href: "https://www.frdr-dfdr.ca/repo/"
+nav_footer_logo_bottom: site.logo.bottom.file 
+nav_footer_logo_bottom_href: site.logo.bottom.href 
 nav_footer_logo_top: ""
 nav_footer_logo_top_href: ""
 
