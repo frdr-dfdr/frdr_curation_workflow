@@ -1,6 +1,6 @@
 ---
 layout: default
-title: titles.outline
+title: {% t titles.home %}
 nav_order: 3
 ---
 
