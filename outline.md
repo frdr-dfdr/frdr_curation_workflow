@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Outline
+title: titles.outline
 nav_order: 3
 ---
 
+{% tf outline/outline.md %}
