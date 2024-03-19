@@ -1,3 +1,5 @@
+site:
+  title: "FRDR Curation Workflow"
 search:
   prompt: "Search the website"
 pages:

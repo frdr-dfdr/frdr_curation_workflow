@@ -1,4 +1,4 @@
-title: FRDR Curation Workflow # *** Enter resource title here
+title: site.title # *** Enter resource title here
 github_repo_url: "https://frdr-dfdr.github.io/frdr-dfdr/frdr_curation_workflow" # ***Enter resource URL (in github pages) here
 gh_edit_repository: "https://github.com/frdr-dfdr/frdr_curation_workflow" # *** ENTER the github URL for your repo
 ga_tracking: "" # *** This needs to be set up in Google Analytics once you know the website URL. Then the tracking code needs to be taken from Google Analytics and pasted here.
