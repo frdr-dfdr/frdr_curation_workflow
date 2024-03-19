@@ -1,3 +1,5 @@
+search:
+  prompt: "Search the website"
 pages:
   introduction: "Introduction"
   outline: "Outline"
