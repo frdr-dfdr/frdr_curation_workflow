@@ -1,15 +1,15 @@
 site:
-  subtitle: "Test 2"
   title: "DFDR Processus de curation"
   logo:
     bottom:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo-fr.png"
       href: "https://www.frdr-dfdr.ca/repo/?locale=fr"
 footer:
+  subtitle: ""
   attribution: "Une initiative de l'équipe de service du DFDR."
   license: "Ce travail est sous licence "
   modified: "Site modifié pour la dernière fois: "
-  edit: "Voir ce contenu sur GitHub"
+  edit: "View this content on GitHub"
 search:
   prompt: "Rechercher sur le site"
 pages:
