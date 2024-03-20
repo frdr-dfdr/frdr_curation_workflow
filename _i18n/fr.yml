@@ -1,5 +1,6 @@
 site:
   title: "DFDR Processus de curation"
+  back_to_top: "Retour en haut de page"
   logo:
     bottom:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo-fr.png"

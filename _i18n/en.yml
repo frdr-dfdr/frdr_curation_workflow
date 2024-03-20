@@ -1,5 +1,6 @@
 site:
   title: "FRDR Curation Workflow"
+  back_to_top: "Back to top"
   logo:
     bottom:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo.png"
