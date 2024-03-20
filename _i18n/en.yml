@@ -9,6 +9,7 @@ footer:
   attribution: "Brought to you by the FRDR service team."
   license: "This work is licensed under a "
   modified: "Site last modified: "
+  edit: "View this content on GitHub"
 search:
   prompt: "Search the website"
 pages:
