@@ -2,7 +2,7 @@
 
 Materials for the FRDR service team resource: **FRDR Curation Workflow** 
 
-This repository contains resource files, as well as files used to create the [resource webpage](https://frdr-dfdr.github.io/frdr_curation_workflow/>) with GitHub Pages.  
+This repository contains resource files, as well as files used to create the [resource webpage](https://frdr-dfdr.github.io/frdr_curation_workflow/) with GitHub Pages.  
 
 Contributions by the following individuals: 
 - Learning module content created by << ENTER NAME(S) HERE >> 
