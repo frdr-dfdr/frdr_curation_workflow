@@ -4,6 +4,10 @@ site:
     bottom:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo.png"
       href: "https://www.frdr-dfdr.ca/repo/"
+footer: 
+  attribution: "Brought to you by the FRDR service team."
+  license: "This work is licensed under a "
+  modified: "Site last modified: "
 search:
   prompt: "Search the website"
 pages:
