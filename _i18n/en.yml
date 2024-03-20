@@ -6,6 +6,9 @@ site:
     bottom:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo.png"
       href: "https://www.frdr-dfdr.ca/repo/"
+    top:
+      file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/alliance_logo.png"
+      href: "https://alliancecan.ca/en"
 footer:
   subtitle: ""
   attribution: "Brought to you by the FRDR service team."
