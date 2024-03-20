@@ -4,7 +4,8 @@ site:
     bottom:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo-fr.png"
       href: "https://www.frdr-dfdr.ca/repo/?locale=fr"
-footer: 
+footer:
+  subtitle: ""
   attribution: "Une initiative de l'équipe de service du DFDR."
   license: "Ce travail est sous licence "
   modified: "Site modifié pour la dernière fois: "
