@@ -5,7 +5,7 @@ site:
       file: "https://raw.githubusercontent.com/frdr-dfdr/resource-template/main/assets/img/logo.png"
       href: "https://www.frdr-dfdr.ca/repo/"
 footer:
-  subtitle: ""
+  subtitle: "Test"
   attribution: "Brought to you by the FRDR service team."
   license: "This work is licensed under a "
   modified: "Site last modified: "
