@@ -1,3 +1,3 @@
 # Introduction
 
-This document describes the general curation workflow for new data deposits in FRDR. If you are just getting started, read the FRDR curation onboarding document first and set up accounts with FRDR and Globus.
+Ce document décrit le processus général de curation pour les nouveaux dépôts de données dans DFDR. Si vous débutez, lisez d'abord le document de prise en main de la curation dans DFDR et créez des comptes avec DFDR et Globus.
