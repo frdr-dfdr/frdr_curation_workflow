@@ -1,6 +1,6 @@
 # Document contents:
 
-1. **Helpful links for FRDR curators**
+1. [**Helpful links for FRDR curators**](helpful_links.html)
 2. **Selected curation resources**
 3. [**Getting started**](getting_started.html)
    - [General information](getting_started.html#general-information)
