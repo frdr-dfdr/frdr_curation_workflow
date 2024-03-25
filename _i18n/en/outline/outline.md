@@ -2,8 +2,8 @@
 
 1. **Helpful links for FRDR curators**
 2. **Selected curation resources**
-3. [**Getting started**](getting-started.md)
-   - [General information](getting-started.md#general-information)
+3. [**Getting started**](getting_started.md)
+   - [General information](getting_started.md#general-information)
      - ‘Perform Curation Task’ page (our Curation interface)
      - ‘Edit Dataset’ page (our Administrative interface)
      - FRDR metadata schema

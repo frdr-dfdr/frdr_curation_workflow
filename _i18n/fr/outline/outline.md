@@ -2,8 +2,8 @@
 
 1. **Liens utiles pour les conservateurs de DFDR**
 2. **Ressources sélectionnées pour la conservation**
-3. [**Démarrer**](getting-started.md)
-   - [Informations générales](getting-started.md#general-information)
+3. [**Démarrer**](getting_started.md)
+   - [Informations générales](getting_started.md#general-information)
      - Page 'Perform Curation Task' (notre interface de curation)
      - Page 'Edit Dataset' (notre interface administrative)
      - Schéma de métadonnées FRDR
