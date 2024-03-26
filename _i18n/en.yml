@@ -25,3 +25,7 @@ pages:
   outline: "Outline"
   getting_started: "Getting Started"
   helpful_links: "Helpful links for FRDR curators"
+images:
+  curatioon_task:
+    url: "assets/img/en/curation-task.png"
+    alt: "Screenshot showing the ‘Perform Curation Task’ page on FRDR."

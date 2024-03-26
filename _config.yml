@@ -13,7 +13,7 @@ nav_footer_logo_top_href: site.logo.top.href
 nav_footer_logo_top_alt: site.logo.top.alt
 
 languages: ["en", "fr"] # *** Leave as is for EN/FR or EN only documents. Change to ["fr", "en"] for FR only documents.
-language_switcher: true # *** Show/Hide the language switcher button in the sidebar. Set to true for EN/FR documents and false for EN only or FR only documents.
+language_switcher: false # *** Show/Hide the language switcher button in the sidebar. Set to true for EN/FR documents and false for EN only or FR only documents.
 
 #  _____       _   _   _          _      _
 # | ____|   __| | (_) | |_       / \    | |__     ___   __   __   ___
